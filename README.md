@@ -1,4 +1,4 @@
-# Overview of k8s Components
+# Overview of k8s Components Demo
 
 ### 2 Deployment / Pod
 
